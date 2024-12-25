@@ -1,0 +1,5 @@
+{
+    "terminal.integrated.commandsToSkipShell": [
+        "C:\\\\WINDOWS\\\\System32\\\\cmd.exe"
+    ]
+}
